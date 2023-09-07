@@ -1,4 +1,4 @@
-What is Zero-Shot Learning?
+** What is Zero-Shot Learning? **
 
 Discover the power of Zero-Shot Learning, a cutting-edge machine learning technique that allows machines to learn and make predictions without being trained on specific data sets.
 This technique enables machines to recognize and identify new objects, classes, or categories that were never presented to them in the training phase. In this article, we will provide an in-depth overview of zero-shot learning, its mechanics, benefits, and limitations.
